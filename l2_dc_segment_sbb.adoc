@@ -1,12 +1,6 @@
 = LAYER 2 SEGMENT IN XXX dc
-:doctype: book 
-:preface-title: Preface 
 :toc:
 
-== Preface
-This is preface
-== Chapter A
-== Chapter B
 
 
 == Overview
