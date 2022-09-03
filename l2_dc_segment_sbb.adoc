@@ -1,19 +1,34 @@
-= LAYER 2 SEGMENT IN ASML dc
+= LAYER 2 SEGMENT IN XXX dc
+:toc:
 
 == Overview
 
-This document describe the `solution building block` of the `Layer 2 segment` in ASML data center
+This document describe the `solution building block` of the `Layer 2 segment` in XX data center
 
 == Supported DCs
 
-* EID
-* HTC
-* TPE
-* LVG
-* NRW
+* DC1
+* DC2
+* DC3
+* DC4
+* DC5
 
 
 == Use Cases
+
+ISCSI Connectivity:: ISCSI require Layer 2 network to operate, this is to # <1> Limit the external access. # <2> Improve performance
+HeartBeat (HA) network:: Similar to the ISCSI use case, HA require typically a layer 2 network between the systems
+
+=== Architectural Diagram
+
+
+=== How to request the product
+
+
+=== Monitoring And Obervability
+
+
+=== Troubleshooting
 
 
 [source, python]
