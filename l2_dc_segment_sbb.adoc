@@ -1,10 +1,10 @@
 = LAYER 2 SEGMENT IN ASML dc
 
-*Overview*
+== Overview
 
 This document describe the `solution building block` of the `Layer 2 segment` in ASML data center
 
-.Supported DCs
+== Supported DCs
 
 * EID
 * HTC
@@ -12,6 +12,7 @@ This document describe the `solution building block` of the `Layer 2 segment` in
 * LVG
 * NRW
 
-:toc:
-* item1
-* item2
+
+== Use Cases
+
+
