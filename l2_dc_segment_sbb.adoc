@@ -2,15 +2,4 @@
 
 This document describe the `solution building block` of the `Layer 2 segment` in ASML data center
 
-
-TIP: This is tip
-
-IMPORTANT: important
-
-WARNING: warning
-
-CAUTION: caution
-
-NOTE: note
-
-WARNING: Wolpertingers are known to nest in server racks. 
+this will lead to -> that
