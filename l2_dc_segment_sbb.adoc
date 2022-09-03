@@ -12,3 +12,5 @@ WARNING: warning
 CAUTION: caution
 
 NOTE: note
+
+WARNING: Wolpertingers are known to nest in server racks. 
