@@ -1,5 +1,4 @@
 = LAYER 2 SEGMENT IN XXX dc
-
 :doctype: book 
 :preface-title: Preface 
 :toc:
