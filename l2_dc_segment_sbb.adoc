@@ -29,8 +29,9 @@ General Layer2 connecivity:: any system require an isolated network boundry and 
 == Architectural Diagram
 
 == Limitations and considerations
-Performance:: it is advised that not more than 512 endpoint connect to a single Layer 2 segment.
-Supported Segments:: maximum of 1000 Layer 2 segment can be created per datacenter, https://monitoring/epg[here] you can refer to the current utalization
+Performance:: It is advised that not more than 512 endpoint connect to a single Layer 2 segment.
+Supported Segments:: A maximum of 1000 Layer 2 segment can be created per datacenter, https://monitoring/epg[here] you can refer to the current utalization
+
 == How to request the product
 You can use https://xxx/Req999[REQ999] to request this product
 
