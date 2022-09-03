@@ -4,6 +4,10 @@ This document describe the `solution building block` of the `Layer 2 segment` in
 
 .Supported Regions
 
-* EID
+* Netherlands
+** EID
+** HTC
 
-* HTC
+* US
+** LVG
+** NRW
