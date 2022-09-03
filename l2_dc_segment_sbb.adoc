@@ -2,12 +2,10 @@
 
 This document describe the `solution building block` of the `Layer 2 segment` in ASML data center
 
-.Supported Regions
+.Supported DCs
 
-* Netherlands
-** EID
-** HTC
-
-* US
-** LVG
-** NRW
+* EID
+* HTC
+* TPE
+* LVG
+* NRW
