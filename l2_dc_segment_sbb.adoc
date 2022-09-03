@@ -19,19 +19,18 @@ This document describe the `solution building block` of the `Layer 2 segment` in
 ISCSI Connectivity:: ISCSI require Layer 2 network to operate, this is to # <1> Limit the external access. # <2> Improve performance
 HeartBeat (HA) network:: Similar to the ISCSI use case, HA require typically a layer 2 network between the systems
 
-=== Architectural Diagram
+== Architectural Diagram
 
 
-=== How to request the product
+== How to request the product
+You can use https://xxx/Req999[REQ999] to request this product
 
-
-=== Monitoring And Obervability
+== Monitoring And Obervability
 
 
 === Troubleshooting
-
-
 [source, python]
+
 ----
 Interface X # <1>
  switchport trunk allowed vlan Y # <2>
