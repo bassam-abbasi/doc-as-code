@@ -16,3 +16,13 @@ This document describe the `solution building block` of the `Layer 2 segment` in
 == Use Cases
 
 
+[source, python]
+----
+Interface X # <1>
+ switchport trunk allowed vlan Y # <2>
+----
+
+<1> The interface where the allowed VLANs would be set on
+<2> The specific VLANs to add
+
+
