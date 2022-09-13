@@ -3,5 +3,9 @@ test6
 testi5 and we are not going anywhere
 =======
 we are doing well
+<<<<<<< Updated upstream
 how are you
 >>>>>>> feature2_branch
+=======
+how are you, are you ok?
+>>>>>>> Stashed changes
